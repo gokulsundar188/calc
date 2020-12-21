@@ -1,8 +1,8 @@
 name: calc
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+#author: gokul sundar <gokulsundar188@gmail.com>
+repository: https://github.com/gokulsundar188/calc.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
